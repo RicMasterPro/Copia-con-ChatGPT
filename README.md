@@ -9,7 +9,8 @@ Per non dare sospetti, si spaccia come CCleaner.
 È la scelta ideale se vuoi usare lo script così com'è, attivando immediatamente tutte le funzionalità.
 
 - Il file .ahk originale: Contiene tutto il codice sorgente dello script.<br>
-È perfetto se desideri personalizzare comportamenti, modificare le scorciatoie da tastiera o aggiungere nuove funzionalità.
+È perfetto se desideri personalizzare comportamenti, modificare le scorciatoie da tastiera o aggiungere nuove funzionalità.<br>
+Dopo aver apportato modifiche, puoi eseguire lo script tramite AutoHotkey e ricompilarlo in un nuovo file eseguibile.
 
 
 
@@ -25,5 +26,5 @@ Per non dare sospetti, si spaccia come CCleaner.
 
 # Note tecniche
 Tutte le finestre di ChatGPT vengono identificate tramite il titolo della scheda di Google Chrome.<br>
-Se il titolo della scheda non contiene la parola "ChatGPT", la finestra non verrà chiusa.<br>
+Se è selezionata una scheda che il titolo non contiene la parola "ChatGPT", la finestra non verrà chiusa.<br>
 Si consiglia di creare un nuovo progetto su ChatGPT e selezionare Compiti Scolastici, in questo modo verrà aggiunta la parola "ChatGPT" automaticamente nel titolo della scheda, senza bisogno di rinominare la chat ogni volta.
